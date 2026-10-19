@@ -1,0 +1,19 @@
+=== batch start 14:53:21 ===
+pair 02 attempt 1 -> HTTP 200 at 14:53:23
+pair 03 attempt 1 -> HTTP 200 at 14:53:39
+pair 04 attempt 1 -> HTTP 200 at 14:53:53
+pair 05 attempt 1 -> HTTP 200 at 14:54:06
+pair 06 attempt 1 -> HTTP 200 at 14:54:24
+pair 07 attempt 1 -> HTTP 200 at 14:54:37
+pair 08 attempt 1 -> HTTP 200 at 14:54:50
+pair 09 attempt 1 -> HTTP 200 at 14:55:04
+pair 10 attempt 1 -> HTTP 200 at 14:55:18
+=== batch done 14:55:34 ===
+=== batch2 start 14:56:51 ===
+pair 11 attempt 1 -> HTTP 200 at 14:56:52
+pair 12 attempt 1 -> HTTP 200 at 14:57:05
+pair 13 attempt 1 -> HTTP 200 at 14:57:19
+pair 14 attempt 1 -> HTTP 200 at 14:57:32
+pair 15 attempt 1 -> HTTP 200 at 14:57:45
+pair 16 attempt 1 -> HTTP 200 at 14:57:58
+=== batch2 done 14:58:10 ===
